@@ -1,4 +1,4 @@
 # compornent
-Porn for web components
+High quality web components
 
-Feel free to contribute
+*— Feel free to contribute*
